@@ -6,7 +6,7 @@
 ##
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 51%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 46%;"/>
 </div>
 
 ##
