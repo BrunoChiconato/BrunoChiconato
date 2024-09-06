@@ -40,8 +40,8 @@
 </section>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 51%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 46%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;"/>
 </div>
 
 ## <p align="center"> 📫 How to reach me? </p>
