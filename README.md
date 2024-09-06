@@ -36,7 +36,6 @@
         <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></code></a>
         <!-- DBeaver -->
         <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></code></a>
-        
     </p>
 </section>
 
