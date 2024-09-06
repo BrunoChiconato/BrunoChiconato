@@ -14,8 +14,6 @@
     <p align="center">
         <!-- Python -->
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
-        <!-- Jupyter -->
-        <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter_lab" width="40" height="40"/></code></a>
         <!-- Pandas -->
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code></a>
         <!-- Numpy -->
@@ -34,8 +32,11 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code></a>
         <!-- Postgres -->
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/></code></a>
-        <!-- Oracle -->
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></code></a>
+        <!-- SQL Server -->
+        <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></code></a>
+        <!-- DBeaver -->
+        <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></code></a>
+        
     </p>
 </section>
 
