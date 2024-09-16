@@ -29,8 +29,6 @@
 
 > **Note:** Explore all my data engineering projects [here](https://github.com/BrunoChiconato/projetos_engenharia_de_dados).
 
----
-
 ## <p align="center"> 🚀 Languages and Tools </p>
 
 <p align="center">
@@ -60,16 +58,12 @@
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/></a>
 </p>
 
----
-
 ## <p align="center"> 📊 GitHub Stats </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 45%;"/>
 </div>
-
----
 
 ## <p align="center"> 📫 How to reach me? </p>
 
