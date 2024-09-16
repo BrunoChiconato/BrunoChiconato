@@ -5,9 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=BrunoChiconato&color=blue)
 
 - 🔭 **Junior Business Intelligence Analyst** at **[Insight Wave](https://www.linkedin.com/company/insight-wave-tech/?originalSubdomain=br)**.
-- 🌱 I'm constantly learning about _**Business Intelligence**_, _**Data Science**_, and _**Data Engineering**_.
-
----
+- 🌱 I'm constantly learning about _**Business Intelligence**_ and _**Data Engineering**_.
 
 ## <p align="center"> 🛠️ Data Engineering Projects </p>
 
