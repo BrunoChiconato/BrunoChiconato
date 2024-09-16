@@ -4,47 +4,77 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BrunoChiconato&color=blue)
 
-
 - 🔭 **Junior Business Intelligence Analyst** at **[Insight Wave](https://www.linkedin.com/company/insight-wave-tech/?originalSubdomain=br)**.
--  🌱 I'm constantly learning about _**Business Intelligence**_, _**Data Science**_ and _**Data Engineering**_.
+- 🌱 I'm constantly learning about _**Business Intelligence**_, _**Data Science**_, and _**Data Engineering**_.
 
+---
+
+## <p align="center"> 🛠️ Data Engineering Projects </p>
+
+<p align="center">
+  <a href="https://github.com/BrunoChiconato/projetos_engenharia_de_dados">
+    <img src="https://img.shields.io/badge/Explore-Data%20Engineering%20Projects-2ea44f?style=for-the-badge&logo=github" alt="Data Engineering Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  I'm working on a series of <strong>Data Engineering Projects</strong> to enhance my skills in Python and data processing. These projects are designed to simulate real-world data engineering tasks and help me develop practical skills.
+</p>
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| **[Reading and Writing Text Files](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/leitura_escrita_txt)** | Program that reads data from a text file, processes it, and writes the results to a new file. |
+| **CSV File Manipulation** | Script to read data from a CSV file, parse the data, and perform basic operations such as filtering lines based on certain criteria |
+| **Data Aggregation** | Functions to calculate aggregations like sum, average, minimum, and maximum for specific fields in a dataset. |
+
+> **Note:** Explore all my data engineering projects [here](https://github.com/BrunoChiconato/projetos_engenharia_de_dados).
+
+---
 
 ## <p align="center"> 🚀 Languages and Tools </p>
-<section>
-    <p align="center">
-        <!-- Python -->
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
-        <!-- Pandas -->
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code></a>
-        <!-- Numpy -->
-        <a href="https://numpy.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></code></a>
-        <!-- Matplotlib -->
-        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></code></a>
-        <!-- Git -->
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
-        <!-- PBI -->
-        <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><code><img src="https://camo.githubusercontent.com/511b9274ea9ab37e1f794e2b13370d9154e67190d72f871f39581a238cc35185/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f36303070782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="pbi" width="40" height="40"/></code></a>
-        <!-- Figma -->
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></code></a>
-        <!-- VS Code -->
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></code></a>
-        <!-- My SQL -->
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code></a>
-        <!-- Postgres -->
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/></code></a>
-        <!-- SQL Server -->
-        <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></code></a>
-        <!-- DBeaver -->
-        <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><code><img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></code></a>
-    </p>
-</section>
+
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/></a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a>
+  <!-- DBeaver -->
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/></a>
+</p>
+
+---
+
+## <p align="center"> 📊 GitHub Stats </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 45%;"/>
 </div>
 
+---
+
 ## <p align="center"> 📫 How to reach me? </p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/brunochiconato">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
