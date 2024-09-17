@@ -62,7 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=default" alt="GitHub Stats" style="width: 52.5%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=normal&theme=default" alt="Top Langs" style="width: 40%;"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=normal&theme=default" alt="Top Langs" style="width: 40%;"/> -->
 </div>
 
 ## <p align="center"> 📫 How to reach me? </p>
