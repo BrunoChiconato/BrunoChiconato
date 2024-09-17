@@ -24,7 +24,7 @@
 | Project | Description |
 |---|---|
 | **[Reading and Writing Text Files](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/leitura_escrita_txt)** | Program that reads data from a text file, processes it, and writes the results to a new file. |
-| **CSV File Manipulation** | Script to read data from a CSV file, parse the data, and perform basic operations such as filtering lines based on certain criteria |
+| **[CSV File Manipulation](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/manipulacao_csv)** | Script to read data from a CSV file, parse the data, and perform basic operations such as filtering lines based on certain criteria |
 | **Data Aggregation** | Functions to calculate aggregations like sum, average, minimum, and maximum for specific fields in a dataset. |
 
 > **Note:** Explore all my data engineering projects [here](https://github.com/BrunoChiconato/projetos_engenharia_de_dados).
@@ -61,8 +61,8 @@
 ## <p align="center"> 📊 GitHub Stats </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoChiconato&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoChiconato&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;"/>
 </div>
 
 ## <p align="center"> 📫 How to reach me? </p>
