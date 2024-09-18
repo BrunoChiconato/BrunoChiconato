@@ -25,7 +25,7 @@
 |---|---|
 | **[Reading and Writing Text Files](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/leitura_escrita_txt)** | Program that reads data from a text file, processes it, and writes the results to a new file. |
 | **[CSV File Manipulation](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/manipulacao_csv)** | Script to read data from a CSV file, parse the data, and perform basic operations such as filtering lines based on certain criteria |
-| **Data Aggregation** | Functions to calculate aggregations like sum, average, minimum, and maximum for specific fields in a dataset. |
+| **[Data Aggregation](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/agregacao_de_dados)** | Functions to calculate aggregations like sum, average, minimum, and maximum for specific fields in a dataset. |
 
 > **Note:** Explore all my data engineering projects [here](https://github.com/BrunoChiconato/projetos_engenharia_de_dados).
 
