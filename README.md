@@ -7,28 +7,6 @@
 - 🔭 **Business Intelligence Analyst** at **[Insight Wave](https://www.linkedin.com/company/insight-wave-tech/?originalSubdomain=br)**.
 - 🌱 I'm constantly learning about _**Business Intelligence**_ and _**Data Engineering**_.
 
-## <p align="center"> 🛠️ Data Engineering Projects </p>
-
-<p align="center">
-  <a href="https://github.com/BrunoChiconato/projetos_engenharia_de_dados">
-    <img src="https://img.shields.io/badge/Explore-Data%20Engineering%20Projects-2ea44f?style=for-the-badge&logo=github" alt="Data Engineering Projects"/>
-  </a>
-</p>
-
-<p align="center">
-  I'm working on a series of <strong>Data Engineering Projects</strong> to enhance my skills in Python and data processing. These projects are designed to simulate real-world data engineering tasks and help me develop practical skills.
-</p>
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| **[Reading and Writing Text Files](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/leitura_escrita_txt)** | Program that reads data from a text file, processes it, and writes the results to a new file. |
-| **[CSV File Manipulation](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/manipulacao_csv)** | Script to read data from a CSV file, parse the data, and perform basic operations such as filtering lines based on certain criteria |
-| **[Data Aggregation](https://github.com/BrunoChiconato/projetos_engenharia_de_dados/tree/main/agregacao_de_dados)** | Functions to calculate aggregations like sum, average, minimum, and maximum for specific fields in a dataset. |
-
-> **Note:** Explore all my data engineering projects [here](https://github.com/BrunoChiconato/projetos_engenharia_de_dados).
-
 ## <p align="center"> 🚀 Languages and Tools </p>
 
 <p align="center">
