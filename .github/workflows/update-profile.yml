@@ -1,0 +1,39 @@
+name: Update GitHub Profile 🚀
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # Snake Game Generation 🐍
+    - name: Generate Snake Game
+      uses: Platane/snk@v3
+      with:
+        github_user_name: BrunoChiconato
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+    # Force Refresh of GitHub Stats
+    - name: Refresh GitHub Readme Stats
+      run: |
+        curl -s https://github-readme-stats.vercel.app/api?username=BrunoChiconato > /dev/null
+        curl -s https://streak-stats.demolab.com/?user=BrunoChiconato > /dev/null
+        curl -s https://github-profile-trophy.vercel.app/?username=BrunoChiconato > /dev/null
+
+    # Commit changes if any
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add dist
+        git commit -m "Auto-update Snake Game and Stats [skip ci]" || echo "No changes to commit"
+        git push
