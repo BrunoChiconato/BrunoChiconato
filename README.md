@@ -65,7 +65,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoChiconato&theme=gruvbox&no-frame=true&margin-w=4&rank=-C,-?" alt="Bruno's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BrunoChiconato&theme=gruvbox&no-frame=true&margin-w=15&column=3&rank=-C,-?"" alt="Bruno's GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <sub>Last updated at: <!--LAST_UPDATED--></sub>
 </p>
 
 ## Connect with Me
@@ -78,14 +85,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-## Contribution Snake 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <sub>Last updated at: <!--LAST_UPDATED--></sub>
-</p>
-
-
