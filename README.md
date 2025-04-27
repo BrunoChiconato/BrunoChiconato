@@ -68,15 +68,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoChiconato&theme=gruvbox&no-frame=true&margin-w=15&column=3&rank=-C,-?" alt="Bruno's GitHub Trophies"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<picture align="center">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake-dark.svg" />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake.svg" />
+  <img 
+    alt="github-snake" 
+    src="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake.gif" />
 </picture>
 
-<p align="center">
-  <sub>Last updated at: <!--LAST_UPDATED--></sub>
-</p>
 
 ## Connect with Me
 
