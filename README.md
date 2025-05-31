@@ -14,18 +14,10 @@
 - 🔧 **Technical Skills:** Proficient in **Python** and **SQL**; experienced with data engineering tools like **dbt**, **Apache Airflow**, **Terraform**, **Docker**, and cloud platforms (e.g., **AWS**).
 - 🌱 **Continuous Learning:** Committed to growing my expertise through a postgraduate program and specialized bootcamps (see **Education & Certifications** below) while building hands-on personal projects.
 
-<!-- ## Projects
-
-- **[pos-graduacao-engenharia-de-dados](https://github.com/BrunoChiconato/pos-graduacao-engenharia-de-dados)** – Projects and exercises from the Data Engineering postgraduate program (PUC Minas), covering data warehousing, ETL, and big data tooling.
-- **[python-base](https://github.com/BrunoChiconato/python-base)** – Exercises from the *Python Base* course by Linux Tips, reinforcing Python fundamentals and scripting skills.
-- **[dundie-rewards](https://github.com/BrunoChiconato/dundie-rewards)** – A CLI application in Python for the fictional Dunder Mifflin company, managing a simple rewards system (inspired by *The Office*).
-- **[sql-bootcamp](https://github.com/BrunoChiconato/sql-bootcamp)** – Projects from the SQL Bootcamp by *Jornada de Dados*, including complex SQL queries, database design, and data analysis tasks.
-- **[airflow-project](https://github.com/BrunoChiconato/airflow-project)** – Workflows and data pipelines developed following the *Apache Airflow Hands-On Guide* by Marc Lamberti, demonstrating DAGs, scheduling, and task automation.
-- **[terraform-project](https://github.com/BrunoChiconato/terraform-project)** – **Cloudmart** e-commerce infrastructure as code: provisioning DynamoDB, an API (Node.js), and a Vite frontend with **Terraform**, and containerizing components with **Docker** for deployment. -->
-
 ## Education & Certifications
 
 - ![PUC Minas Badge](https://img.shields.io/badge/PUC%20Minas-Data%20Engineering%20Postgraduate-blue?style=flat-square) **Postgraduate Program in Data Engineering** – PUC Minas.
+- ![UTFPR Badge](https://img.shields.io/badge/UTFPR-Electrical%20Engineering%20Graduate-yellow?style=flat-square) **Graduate Program in Electrical Engineering** - UTFPR.
 - ![Jornada de Dados Badge](https://img.shields.io/badge/Jornada%20de%20Dados-Data%20Bootcamp-orange?style=flat-square) **Jornada de Dados** – Data Engineering Bootcamp led by Luciano Vasconcelos.
 - ![Linux Tips Badge](https://img.shields.io/badge/Linux%20Tips-Python%20Base%20Course-brightgreen?style=flat-square) **Python Base** – Programming course by Linux Tips (completed foundational Python training).
 - ![Airflow Badge](https://img.shields.io/badge/Marc%20Lamberti-Airflow%20Guide-red?style=flat-square) **Apache Airflow Hands-On Guide** – Comprehensive Airflow course by Marc Lamberti (hands-on workflow orchestration training).
