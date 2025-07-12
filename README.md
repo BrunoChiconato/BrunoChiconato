@@ -1,28 +1,27 @@
-# <p align="center"> 👋 Hello, I'm Bruno Chiconato! 👋 </p>
+# <p align="center">👷‍♂️ Data Engineer in Practice – Bruno Chiconato </p>
 
-**Junior Business Intelligence Analyst at [Insight Wave](https://www.linkedin.com/company/insight-wave-tech/?originalSubdomain=br)** – aspiring to become a **Data Engineer**.  
-*Passionate about turning data into actionable insights and building robust data pipelines for analytics.*
+**Turning raw data into clean, automated, and observable pipelines using modern cloud & open-source stacks.**
 
-> *Everything fails, all the time. – Werner Vogels*
+Current role: BI Analyst Jr. (👀), but delivering like a full-stack data engineer.
+
+> *I make data pipelines that don't cry at 2 AM.*
 
 ![Profile views](https://komarev.com/ghpvc/?username=BrunoChiconato&color=blue)
 
-## About Me
+## 👋 About Me
 
-- 💼 **Current Role:** Business Intelligence Analyst Jr. at Insight Wave, working on data reporting and analytics.
-- 🎯 **Career Goal:** Transition into a full-time **Data Engineer**, focusing on data pipeline development, ETL/ELT processes, and cloud-based data solutions.
-- 🔧 **Technical Skills:** Proficient in **Python** and **SQL**; experienced with data engineering tools like **dbt**, **Apache Airflow**, **Terraform**, **Docker**, and cloud platforms (e.g., **AWS**).
-- 🌱 **Continuous Learning:** Committed to growing my expertise through a postgraduate program and specialized bootcamps (see **Education & Certifications** below) while building hands-on personal projects.
+I'm Bruno, a Data Engineer in practice (and in mindset).
+Despite the “BI Analyst” title on paper, I spend my days solving real data engineering problems:
+broken pipelines, poorly structured data lakes, unscalable ETLs, lack of observability — and turning them into robust, modular, and automated solutions.
 
-## Education & Certifications
+I’ve built and deployed **serverless and open-source data pipelines** from scratch, using tools like **Apache Airflow**, **AWS Lambda**, **Docker**, **Spark**, **dbt**, **Step Functions**, and **MinIO**, with data visualized in **Metabase** or **Streamlit**, and monitored via **Slack/SNS**.
 
-- ![PUC Minas Badge](https://img.shields.io/badge/PUC%20Minas-Data%20Engineering%20Postgraduate-blue?style=flat-square) **Postgraduate Program in Data Engineering** – PUC Minas.
-- ![UTFPR Badge](https://img.shields.io/badge/UTFPR-Electrical%20Engineering%20Graduate-yellow?style=flat-square) **Graduate Program in Electrical Engineering** - UTFPR.
-- ![Jornada de Dados Badge](https://img.shields.io/badge/Jornada%20de%20Dados-Data%20Bootcamp-orange?style=flat-square) **Jornada de Dados** – Data Engineering Bootcamp led by Luciano Vasconcelos.
-- ![Linux Tips Badge](https://img.shields.io/badge/Linux%20Tips-Python%20Base%20Course-brightgreen?style=flat-square) **Python Base** – Programming course by Linux Tips (completed foundational Python training).
-- ![Airflow Badge](https://img.shields.io/badge/Marc%20Lamberti-Airflow%20Guide-red?style=flat-square) **Apache Airflow Hands-On Guide** – Comprehensive Airflow course by Marc Lamberti (hands-on workflow orchestration training).
+My focus:
+**Architecture first, automation always, cloud when needed, and code that doesn’t cry in production.**
 
-## Languages & Tools
+Currently pursuing a postgrad in Data Engineering while shipping personal projects that reflect real-world complexity.
+
+## Tech Stack Snapshot
 
 <p align="center">
   <!-- Python -->
@@ -50,6 +49,65 @@
 
 </p>
 
+## Featured Projects
+
+### Stock Market Data Pipeline with Apache Airflow, Spark & MinIO
+
+End-to-end orchestrated pipeline using an open-source stack for financial data processing and dashboarding.
+
+* Built with **Apache Airflow (Astro CLI)**, containerized via **Docker Compose**.
+* Ingests stock data from Yahoo Finance API, stores raw JSON in **MinIO (S3-compatible)**.
+* Transforms data using **Apache Spark**, writes cleaned CSVs back to object storage.
+* Loads final tables into **PostgreSQL**, visualized with **Metabase** dashboards.
+* Integrates **Slack notifications** for monitoring pipeline success/failure.
+* Focused on orchestration, transformation, and delivery with modular DAGs and TaskFlow API.
+
+> *"This project simulates a production-grade ELT architecture using only open-source tools. It demonstrates my proficiency with Airflow orchestration, Spark processing, and cloud-native design principles."*
+
+🔗 [Link to Repository](https://github.com/BrunoChiconato/airflow-project)
+
+---
+
+### Cryptocurrency Serverless Pipeline on AWS
+
+Real-time, cost-optimized pipeline for crypto data ingestion, transformation, alerting, and visualization — fully serverless.
+
+* Automated ingestion every 5 minutes via **EventBridge** triggering **Step Functions**.
+* Built with **6 AWS Lambda Functions** for fetch, validation, transformation, and notification.
+* Raw and transformed data stored in **S3 (Parquet format)**.
+* Dashboard built using **Streamlit**, deployed on **EC2**, visualizing historical and real-time metrics.
+* Integrated alerting via **SNS Email Notifications** based on pipeline execution state.
+* Designed for **free-tier compliance** and scalability with no servers to manage.
+
+> *"This project shows how I design scalable and efficient data pipelines using the AWS serverless ecosystem, with strong emphasis on automation, resilience and low cost."*
+
+🔗 [Link to Repository](https://github.com/BrunoChiconato/aws-bootcamp/tree/main/aula_14)
+
+---
+
+### Bitcoin ETL Pipeline with AWS RDS, EC2 & Streamlit
+
+Secure and scalable AWS infrastructure for real-time Bitcoin price ETL and dashboard delivery.
+
+* Built a full **VPC** with isolated subnets, security groups, and network segmentation.
+* Stored data in **AWS RDS (PostgreSQL)** — with no public internet access.
+* Used two separate **EC2 instances** for ETL processing and dashboard delivery.
+* Containerized both the ETL process and Streamlit dashboard using **Docker**.
+* Delivered real-time visual insights on Bitcoin price data via public dashboard.
+
+> *"Demonstrates cloud architecture design, data security best practices, and DevOps knowledge using containerized deployments and infrastructure planning."*
+
+🔗 [Link to Repository](https://github.com/BrunoChiconato/aws-bootcamp/tree/main/aula_08)
+
+## Education & Certifications
+
+- ![PUC Minas Badge](https://img.shields.io/badge/PUC%20Minas-Data%20Engineering%20Postgrad-cd3724?style=flat&logoColor=white&labelColor=575757) – Focused on distributed systems, cloud pipelines, data modeling, big data frameworks, and streaming architecture.
+- ![UTFPR Badge](https://img.shields.io/badge/UTFPR-Electrical%20Engineering-yellow?style=flat&logoColor=black&labelColor=575757) – Developed strong foundations in systems thinking, logic, and mathematical modeling.
+- ![Jornada de Dados Badge](https://img.shields.io/badge/Jornada%20de%20Dados-Data%20Bootcamp-13d5ff?style=flat&logoColor=white&labelColor=575757) – Applied Airflow, dbt, and AWS tools to solve real-world data challenges in hands-on projects.
+- ![Airflow Badge](https://img.shields.io/badge/Astronomer-Airflow%20Fundamentals%20Certified-8b52d6?style=flat&logoColor=white&labelColor=575757) – Certified in DAG architecture, scheduling lifecycle, task execution, and UI-based monitoring & debugging.
+- ![Linux Tips Badge](https://img.shields.io/badge/Linux%20Tips-Advanced%20Python-2470ae?style=flat&logoColor=white&labelColor=575757) – Strong command of Python scripting, data manipulation, and functional programming patterns.
+- ![Linux Tips Docker](https://img.shields.io/badge/Linux%20Tips-Advanced%20Docker-2191e5?style=flat&logoColor=white&labelColor=575757) – Built, deployed, and managed containerized environments, focused on pipeline automation and infrastructure reproducibility.
+
 ## GitHub Stats
 
 <p align="center">
@@ -61,17 +119,16 @@
 </p>
 
 <picture align="center">
-  <source 
-    media="(prefers-color-scheme: dark)" 
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake-dark.svg" />
-  <source 
-    media="(prefers-color-scheme: light)" 
+  <source
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake.svg" />
-  <img 
-    alt="github-snake" 
+  <img
+    alt="github-snake"
     src="https://raw.githubusercontent.com/BrunoChiconato/BrunoChiconato/main/dist/github-snake.gif" />
 </picture>
-
 
 ## Connect with Me
 
