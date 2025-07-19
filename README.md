@@ -53,6 +53,8 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
 
 ### Stock Market Data Pipeline with Apache Airflow, Spark & MinIO
 
+![Stock Market](./pics/stock-market.png)
+
 End-to-end orchestrated pipeline using an open-source stack for financial data processing and dashboarding.
 
 * Built with **Apache Airflow (Astro CLI)**, containerized via **Docker Compose**.
@@ -70,6 +72,8 @@ End-to-end orchestrated pipeline using an open-source stack for financial data p
 
 ### Cryptocurrency Serverless Pipeline on AWS
 
+![Crypto Pipeline](./pics/crypto-aws.png)
+
 Real-time, cost-optimized pipeline for crypto data ingestion, transformation, alerting, and visualization — fully serverless.
 
 * Automated ingestion every 5 minutes via **EventBridge** triggering **Step Functions**.
@@ -85,19 +89,20 @@ Real-time, cost-optimized pipeline for crypto data ingestion, transformation, al
 
 ---
 
-### Bitcoin ETL Pipeline with AWS RDS, EC2 & Streamlit
+### Northwind Analytics Pipeline
+![Northwind Analytics](./pics/northwind.png)
 
-Secure and scalable AWS infrastructure for real-time Bitcoin price ETL and dashboard delivery.
+A fully automated analytics pipeline built with **dbt**, **AWS Fargate**, and **Terraform** to demonstrate modern DataOps practices.
 
-* Built a full **VPC** with isolated subnets, security groups, and network segmentation.
-* Stored data in **AWS RDS (PostgreSQL)** — with no public internet access.
-* Used two separate **EC2 instances** for ETL processing and dashboard delivery.
-* Containerized both the ETL process and Streamlit dashboard using **Docker**.
-* Delivered real-time visual insights on Bitcoin price data via public dashboard.
+* Manages all cloud infrastructure as code using **Terraform** to provision the AWS environment.
+* Automates data transformation and testing via a **CI/CD pipeline** with **GitHub Actions**.
+* Executes dbt jobs in a containerized, **serverless environment** on **AWS Fargate**, eliminating the need to manage servers.
+* Features integrated data quality testing and automatically generates and hosts documentation (`dbt docs`) on **S3**.
+* Ensures secure credential management with **AWS SSM Parameter Store**.
 
-> *"Demonstrates cloud architecture design, data security best practices, and DevOps knowledge using containerized deployments and infrastructure planning."*
+> *"This project is a blueprint for modern DataOps. It demonstrates my ability to architect and automate a complete analytics workflow, from infrastructure deployment with Terraform to CI/CD-driven transformations with dbt and GitHub Actions, ensuring a scalable, testable, and serverless solution."*
 
-🔗 [Link to Repository](https://github.com/BrunoChiconato/aws-bootcamp/tree/main/aula_08)
+🔗 [Link to Repository](https://github.com/BrunoChiconato/dbt-analytics-pipeline)
 
 ## Education & Certifications
 
