@@ -30,6 +30,8 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-plain.svg" alt="Ubuntu" width="35" height="35"/></a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
+  <!-- Spark -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="45" height="45"/></a>
   <!-- Terraform -->
   <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
   <!-- AWS -->
@@ -39,17 +41,32 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="35" height="35"/></a>
   <!-- dbt -->
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/dbt.svg" alt="dbt" width="35" height="35"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAg1AAZAA0" alt="dbt" width="35" height="35"/></a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/></a>
 
 </p>
 
 ## Featured Projects
+
+### End-to-End Data Lakehouse with Spark, Iceberg & Snowflake
+
+![Architecture](./pics/lakehouse.png)
+
+A full-stack data engineering pipeline that builds a **transactional Data Lakehouse** architecture on AWS S3, integrating open-source compute with enterprise-grade analytics.
+
+* Built with **Apache Spark** running locally via **Docker**, orchestrated with a simple **Makefile**.
+* Ingests raw XML/JSON data from the **arXiv API**, stored in an S3-backed **Bronze layer**.
+* Processes and cleans data into **Iceberg-managed Silver tables**, supporting ACID compliance and schema evolution.
+* Aggregates business-ready Gold tables (publication stats, author summaries) with performant **PySpark jobs**.
+* Final tables are **queried directly from Snowflake**, using **Iceberg Catalog Integration** for near real-time analytics.
+* Follows **Medallion Architecture** principles and decouples **storage (S3)** from **compute (local Spark)**.
+
+> *"This project showcases my ability to design and implement a modern Lakehouse pipeline using open formats and cloud-native tools. It demonstrates real-world experience with Apache Iceberg, scalable data processing, and seamless integration with Snowflake for analytics."*
+
+🔗 [Link to Repository](https://github.com/BrunoChiconato/lakehouse-from-scratch)
+
+---
 
 ### Stock Market Data Pipeline with Apache Airflow, Spark & MinIO
 
