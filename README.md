@@ -49,7 +49,7 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
 
 ## Featured Projects
 
-### End-to-End Data Engineering Project on Databricks & AWS
+### End-to-End Data Lakehouse on Databricks & AWS
 
 ![Architecture](./pics/lakehouse.png)
 
