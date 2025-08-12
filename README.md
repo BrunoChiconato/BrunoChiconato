@@ -49,20 +49,21 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
 
 ## Featured Projects
 
-### End-to-End Data Lakehouse with Spark, Iceberg & Snowflake
+### End-to-End Data Engineering Project on Databricks & AWS
 
 ![Architecture](./pics/lakehouse.png)
 
-A full-stack data engineering pipeline that builds a **transactional Data Lakehouse** architecture on AWS S3, integrating open-source compute with enterprise-grade analytics.
+Production-grade lakehouse pipeline that ingests, processes, and governs academic paper data from the arXiv API using a Medallion Architecture on Databricks and AWS.
 
-* Built with **Apache Spark** running locally via **Docker**, orchestrated with a simple **Makefile**.
-* Ingests raw XML/JSON data from the **arXiv API**, stored in an S3-backed **Bronze layer**.
-* Processes and cleans data into **Iceberg-managed Silver tables**, supporting ACID compliance and schema evolution.
-* Aggregates business-ready Gold tables (publication stats, author summaries) with performant **PySpark jobs**.
-* Final tables are **queried directly from Snowflake**, using **Iceberg Catalog Integration** for near real-time analytics.
-* Follows **Medallion Architecture** principles and decouples **storage (S3)** from **compute (local Spark)**.
+* End-to-end **ETL** flow from public **arXiv XML API** into a **Bronze–Silver–Gold** data model.
+* Built entirely on **Databricks** with **Unity Catalog** for centralized governance and security.
+* Storage in **Delta Lake** format on **AWS S3**, optimized for analytics and machine learning workloads.
+* Infrastructure and deployments automated via **Databricks Asset Bundles**, **Python wheel tasks**, and **GitHub Actions CI/CD**.
+* Comprehensive testing strategy with **pytest**, code linting via **Ruff**, and coverage tracking on **Codecov**.
+* Serverless job execution to minimize operational overhead while ensuring scalability.
+* Designed for data teams needing reliable, analytics-ready datasets with strong quality controls.
 
-> *"This project showcases my ability to design and implement a modern Lakehouse pipeline using open formats and cloud-native tools. It demonstrates real-world experience with Apache Iceberg, scalable data processing, and seamless integration with Snowflake for analytics."*
+> *"This project demonstrates my ability to architect and automate a modern, cloud-native data lakehouse with Databricks and AWS. It highlights skills in Medallion Architecture design, Unity Catalog governance, reproducible deployments, and CI/CD automation for data engineering."*
 
 🔗 [Link to Repository](https://github.com/BrunoChiconato/lakehouse-from-scratch)
 
