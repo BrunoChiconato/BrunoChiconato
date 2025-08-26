@@ -50,7 +50,7 @@ I’m currently finishing a postgrad in Data Engineering and constantly building
 
 ## Featured Projects
 
-### ScholarStream – Real-Time OpenAlex to Snowflake Pipeline with Full Observability
+### ScholarStream – Near Real-Time OpenAlex to Snowflake Pipeline with Full Observability
 
 ![ScholarStream](./pics/scholarstream.png)
 
