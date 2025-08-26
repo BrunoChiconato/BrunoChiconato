@@ -1,25 +1,26 @@
-# <p align="center">👷‍♂️ Data Engineer in Practice – Bruno Chiconato </p>
+# <p align="center">🛠️ Data Engineer — Bruno Chiconato </p>
 
-**Turning raw data into clean, automated, and observable pipelines using modern cloud & open-source stacks.**
+**Designing resilient, automated data systems using Python, cloud-native services, and open-source tools.**
 
-Current role: BI Analyst Jr. (👀), but delivering like a full-stack data engineer.
-
-> *I make data pipelines that don't cry at 2 AM.*
+Currently shaping data workflows that don’t break at 2 AM or rely on good luck to scale.
 
 ![Profile views](https://komarev.com/ghpvc/?username=BrunoChiconato&color=blue)
 
 ## 👋 About Me
 
-I'm Bruno, a Data Engineer in practice (and in mindset).
-Despite the “BI Analyst” title on paper, I spend my days solving real data engineering problems:
-broken pipelines, poorly structured data lakes, unscalable ETLs, lack of observability — and turning them into robust, modular, and automated solutions.
+Hi, I’m Bruno — a Data Engineer who builds stuff that actually runs in production.
 
-I’ve built and deployed **serverless and open-source data pipelines** from scratch, using tools like **Apache Airflow**, **AWS Lambda**, **Docker**, **Spark**, **dbt**, **Step Functions**, and **MinIO**, with data visualized in **Metabase** or **Streamlit**, and monitored via **Slack/SNS**.
+My background blends engineering discipline with real-world, full-stack data practice. I’ve designed and deployed pipelines that:
+- Ingest and transform data from public APIs or structured systems,
+- Run serverlessly (AWS Lambda, Step Functions) or containerized (Docker, Airflow),
+- Are monitored, versioned, and tested like proper software.
 
-My focus:
-**Architecture first, automation always, cloud when needed, and code that doesn’t cry in production.**
+My mindset is:
+**Architecture first. Automation by default. Observability always.**
 
-Currently pursuing a postgrad in Data Engineering while shipping personal projects that reflect real-world complexity.
+I’m currently finishing a postgrad in Data Engineering and constantly building side projects that simulate real production constraints.
+
+> *If your pipeline breaks silently, I probably hate it more than you do.*
 
 ## Tech Stack Snapshot
 
@@ -48,6 +49,25 @@ Currently pursuing a postgrad in Data Engineering while shipping personal projec
 </p>
 
 ## Featured Projects
+
+### ScholarStream – Real-Time OpenAlex to Snowflake Pipeline with Full Observability
+
+![ScholarStream](./pics/scholarstream.png)
+
+A production-grade data pipeline that streams academic research metadata from the OpenAlex API into Snowflake, with proper governance, monitoring, and a Streamlit UI for live metrics.
+
+**Key highlights:**
+
+* **Near real-time ingestion** using Amazon Kinesis Data Firehose to write directly to Snowflake (VARIANT columns).
+* **Python-based producer** built with Pydantic and Typer, paginating through OpenAlex data and batching records as NDJSON.
+* **Governance-first design**, with dynamic data masking (e.g., emails), scoped Snowflake roles, and schema separation between RAW and CURATED.
+* **Infrastructure as Code** via Terraform: deploys Firehose, IAM policies, CloudWatch logging, S3 backups, and Secrets Manager integration for secure credentials.
+* **Live dashboard** built with Streamlit to monitor latency KPIs and recent events from curated views.
+* **CI/CD pipeline** with Ruff linting, SQL dry-run validation, Pytest coverage reports, and GitHub Actions integration with Codecov.
+
+> *"This project shows my ability to design and deploy a fully observable, governed, and automation-friendly streaming pipeline using real-world tools and constraints."*
+
+🔗 [Repository Link](https://github.com/BrunoChiconato/scholar-stream)
 
 ### End-to-End Data Lakehouse on Databricks & AWS
 
