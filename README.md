@@ -69,6 +69,8 @@ A production-grade data pipeline that streams academic research metadata from th
 
 🔗 [Repository Link](https://github.com/BrunoChiconato/scholar-stream)
 
+---
+
 ### End-to-End Data Lakehouse on Databricks & AWS
 
 ![Architecture](./pics/lakehouse.png)
